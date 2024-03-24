@@ -2,8 +2,8 @@
 
 ## Introduction
 Smart-BEDS is an innovative solution aimed at addressing the critical issue of dust pollution in the mining industry. By employing advanced technology and sustainable practices, Smart-BEDS aims to effectively suppress dust emissions while ensuring environmental and health safety.
+![Project Workflow](https://github.com/Tharaniesh3/Moongdal/blob/main/Img7.jfif)
 
-![Descriptive Statistics](https://github.com/Tharaniesh3/Moongdal/blob/main/Img6.jfif)
 ## Core Components
 
 ### Detection Unit
@@ -27,8 +27,8 @@ The Suppression Unit physically suppresses dust using a network of pumps and spr
 - Eco-Friendly Solution: Biodegradable cellulose suppressant ensures environmental sustainability.
 - Automated Efficiency: Automation and machine learning optimize resource usage.
 - Scalability: Modular design allows for easy scalability to mines of all sizes.
+![Descriptive Statistics](https://github.com/Tharaniesh3/Moongdal/blob/main/Img6.jfif)
 
-![Project Workflow](https://github.com/Tharaniesh3/Moongdal/blob/main/Img7.jfif)
 
 ## Impact
 Smart-BEDS represents a significant advancement in mining safety and environmental sustainability. By intelligently controlling dust emissions, it protects worker health, reduces environmental footprint, and contributes to a more sustainable future for the mining industry.
