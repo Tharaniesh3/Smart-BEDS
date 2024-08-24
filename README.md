@@ -1,7 +1,7 @@
 # Smart-BEDS Project Overview
 
 ## Introduction
-![Intro](https://github.com/Tharaniesh3/Moongdal/blob/main/smartbeds.jpg)
+![Intro](https://github.com/Tharaniesh3/Moongdal/blob/main/smartbeds.png)
 
 Smart-BEDS is an innovative solution aimed at addressing the critical issue of dust pollution in the mining industry. By employing advanced technology and sustainable practices, Smart-BEDS aims to effectively suppress dust emissions while ensuring environmental and health safety.
 ![Project Workflow](https://github.com/Tharaniesh3/Moongdal/blob/main/Img7.jfif)
